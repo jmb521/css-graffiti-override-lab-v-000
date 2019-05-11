@@ -2,6 +2,6 @@
 .tag-1 {
   visibility: hidden;
 }
-#tag-2 {
+#tag-2 #tag-3{
   visibility: hidden;
 }
