@@ -2,10 +2,7 @@
 .tag-1 {
   visibility: hidden;
 }
-#tag-2, #tag-4 {
+#tag-2, #tag-4, #tag-3, #tag-5 {
   visibility: hidden;
 }
 
-#tag-3 {
-  visibility: hidden;
-}
